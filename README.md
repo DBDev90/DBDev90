@@ -1,6 +1,7 @@
 ## E aí, tudo bem? Me chamo Douglas Bordinassi
 
-- 🌱 Atualmente sou aluno de Graduação em Sistemas para Internet
+- 🌱 Atualmente sou aluno de Graduação em Sistemas para Internet - Fatec Taquaritinga
+- 👨‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - Fatec Taquaritinga
 - 🌱 Estou estudando: 
 <br>Desenvolvimento Full Stack JavaScrip, .NET
 
