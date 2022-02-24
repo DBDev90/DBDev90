@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente sou aluno de Graduação em Sistemas para Internet
 - 🌱 Estou estudando: 
-<br>&nbsp; JavaScrip, HTML5, CSS, Booststrap, Node.JS, ESNext, Ajax, Gulp, Webpack, JQuery, VueJS. <br>MySQL, SQL Server, Oracle e MongoDB., .NET
+<br>Desenvolvimento Full Stack JavaScrip, .NET
 
 <div align="center">
   <a href="https://github.com/DBDev90">
