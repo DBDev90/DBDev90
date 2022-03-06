@@ -3,7 +3,7 @@
 - 🌱 Atualmente sou aluno de Graduação em Sistemas para Internet - Fatec Taquaritinga
 - 👨‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - Fatec Taquaritinga
 - 🌱 Estou estudando: 
-<br>Desenvolvimento Full Stack JavaScrip, .NET
+<br>Desenvolvimento Full Stack JavaScrip, Delphi e BD.
 
 <div align="center">
   <a href="https://github.com/DBDev90">
