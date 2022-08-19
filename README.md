@@ -11,7 +11,6 @@
 <br> NodeJS;
 <br> BD Relacionais;
 <br> BD não Relacionais;
-<br> Delphi (devido ao programa de estágio atual).
 ##
 
 <div align="center">
