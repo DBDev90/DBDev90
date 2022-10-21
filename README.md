@@ -20,6 +20,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"  />  
 </div>
   
+![Snake animation](https://github.com/DBDev90/DBDev90/blob/output/github-contribution-grid-snake.svg)
+  
 ##
   
 <div> 
