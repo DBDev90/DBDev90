@@ -10,6 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBDev90&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+[Snake animation](https://github.com/DBDev90/DBDev90/blob/output/github-contribution-grid-snake.svg)
+
 ## Estou estudando
   
 <div>
@@ -19,8 +21,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"  />  
 </div>
-  
-![Snake animation](https://github.com/DBDev90/DBDev90/blob/output/github-contribution-grid-snake.svg)
   
 ##
   
