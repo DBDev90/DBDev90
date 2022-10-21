@@ -2,15 +2,6 @@
 
 - 🌱 Atualmente sou aluno de Graduação em Sistemas para Internet - Fatec Taquaritinga
 - 👨‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - Fatec Taquaritinga
-- 🌱 Estou estudando:
-<br> HTML;
-<br> CSS;
-<br> Bootstrap;
-<br> JavaScript;
-<br> ReactJS;
-<br> NodeJS;
-<br> BD Relacionais;
-<br> BD não Relacionais;
 ##
 
 <div align="center">
