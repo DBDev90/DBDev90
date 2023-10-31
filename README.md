@@ -1,6 +1,5 @@
 ## E aí, tudo bem? Me chamo Douglas Bordinassi
 
-- 🌱 Atualmente estou cursando Sistemas para Internet - Fatec Taquaritinga
 - 👨‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - Fatec Taquaritinga (2021)
 ##
 
